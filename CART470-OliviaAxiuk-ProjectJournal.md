@@ -64,8 +64,14 @@ Despite this, I am pleased with the idea that the design process itself should b
  It is important to note that while Pippin seemed to have a specific vision in mind, he seemed glad to let us pitch in our own unique ideas and visions to the project. As well, it is also important to note that the final product expected for his project does NOT have to be a finalized application, rather, he is seeking to use our design process and the prototype we create as material for his book on game design which he is currently writing. 
 
 #### Main takeaways:
-- 
+- Rather than seeking to create a finalized application, our focus should be more on unexpected design and ideation (we should not sacrifice interesting design ideas for feasibility)
+- The design should be universaly appealing to University students as well as a potentially younger audience
+- The design should encourage "radical ideation" and breaking from the usual game-making conventions
+- It should have the aim of making game-making fun instead of purely academic
+- The interface should be easy to understand and useable even to those who have no experience with coding
+
 ### Ideation
+To begin the design process this week, I decided to start small, collecting 
 ![](media/figma_start.png)
 ![](media/moodboard.png)
 ![](media/design_pix.png)
