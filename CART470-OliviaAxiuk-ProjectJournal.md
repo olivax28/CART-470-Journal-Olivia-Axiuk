@@ -71,12 +71,20 @@ Despite this, I am pleased with the idea that the design process itself should b
 - The interface should be easy to understand and useable even to those who have no experience with coding
 
 ### Ideation
-To begin the design process this week, I decided to start small, collecting 
 ![](media/figma_start.png)
+To begin the design process this week, I decided to start small, collecting references and doing quick sketches. At this stage, I believe that rough ideas are more productive tothe ideation process, rather than creating fully coloured and rendered prototype images. I placed all my work into one Figma project witht he intent of using the same file throughout the whole semester.
 ![](media/moodboard.png)
+When collecting references, I referred back to our conversation with Pippin. My search began with KidPix (bottom left) and branched off from there. The version of KidPIx that I remember using as a child is undoubtedly different than that Pippin remembers, but it still seems to hold a playful, "wacky" design style that encourages creations which reflect these ideas. I searched for images with energy; bright colors, irregular shapes and unconventional design. I also ended up adding some more 'classic' arcade imagery as I came to the realization that the design elements I was looking for could be found in this more familiar visual language.
 ![](media/design_pix.png)
+My first design was more heavily inspired by the KidPix reference, and leaned into the early 90s to 2000s "Wacky Pomo" or "Wacky Postmodernism" design. This style I associate with all of the energy, creativity and elements of the unexpected that would fit right in to the values that Pippin Barr would like to see in this project. I aimed to make the buttons clear while using a sort of 'floating bubble' idea to literally free them from conventinality (as buttons are often organized in neat rows or columns). This design has features such as a simple physics editor, a sound and music changer, an ability to add characters or "actors" and the ability to choose a base game, which can also be 'mashed' with another. Furthermore, the "randomize" button, represented by a dice, would allow for further exploration into the unexpected.
 ![](media/design_arcade.png)
+My next design, as shown above, leans a little more into conventionality, but still aims to bring a similar energy to the experience. The function buttons are on the side and on the base of the arcade machine, creating a skeumorphic representation of the functions. To most people, Arcade games are associated with simple games, so I imagine that the idea of creating based off of a classic like "Space Inavders" or "Snake" within the context of an actual Arcade machine might be intriguing while not being daunting. This interface still holds the same functions as the previous one, including the ability to randomize and add elements to the game at will. It is also worht mentioning that both designs have a "draw" function, which would allow a user to use a simple pencil tool to draw obstacles, sprites and other types of game objects directly to the canvas.
 ![](media/workflow.png)
+Finally, I came up with an idea of a "workflow" or "userflow" that could be implemented to encourage creativity in a more game-like and reward based manner.  as worded in my image decsription:
+" a player chooses from 3 simple games, then receives a random work prompt to begin
+the ideation process. Initially presented with only a few tools, a player must use all of them to proceed, leading 
+to the unlocking of more advanced options, such as new levels and a drawing tool.
+I imagine this version of the program would also have a sandbox version for teaching, where all the tools would be already available, being flexible for the  lessons or exercises wanted by the professor."
 
 ### Moving Forward
-
+Between my ideas and those that will be presented by my other teams memebers this week, it will be most important to focus down all of our ideas into a few key elements and values. It will be interesting to see how similar or different our ideas are, and which new elements I haven't even thought about are brought to the pool of ideas. For next week, I think it'll be most productive to come up with a list that we all agree on, and to create a few, more refined, designs which best represent these design values.
