@@ -53,4 +53,19 @@ Finally, we did some simple sketches outlining possible product outcomes, showin
 It's difficult to know at the moment exactly which direction this project will take, given that we haven't met with the client yet. However, I am confident that we prepared well for the meeting, meaning that it will be very productive in determining the scope and style of the final project. For now, the next steps rely on more ideation and design processes.
 
 
+### Journal Entry 02 | Week 02 Consultation and Ideation
+
+### Meeting with the Client, Pippin Barr
+
+
+#### Main takeaways:
+
+### Ideation
+![](media/figma_start.png)
+![](media/moodboard.png)
+![](media/design_pix.png)
+![](media/design_arcade.png)
+![](media/workflow.png)
+
+### Moving Forward
 
