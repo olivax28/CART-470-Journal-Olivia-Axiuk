@@ -53,13 +53,18 @@ Finally, we did some simple sketches outlining possible product outcomes, showin
 It's difficult to know at the moment exactly which direction this project will take, given that we haven't met with the client yet. However, I am confident that we prepared well for the meeting, meaning that it will be very productive in determining the scope and style of the final project. For now, the next steps rely on more ideation and design processes.
 
 
-### Journal Entry 02 | Week 02 Consultation and Ideation
+### Journal Entry 02 | Week 03 Consultation and Ideation
 
 ### Meeting with the Client, Pippin Barr
 
+Our meeting with Pippin Barr was productive and, and the same time, surprising. While I knew his project proposal hinged on the idea of ideation and of pushing the creative limits of the players, I did not expect him to intend for the design itself to include these values within its own design. After our meeting with him, it was clear that we would need to bring the ideaology of "radical ideation" to our own work as well. 
+
+Despite this, I am pleased with the idea that the design process itself should be more fun and unexpected rather than focusing on creating a straigthforward more 'academic' style tool for teaching game design. Pippin stressed that the tool should be designed with his students in mind (University level individuals who are new to game design) but could still be playful and accessible even to young children. In fact, he even cited the early KidPix drawing software as a reference.
+
+ It is important to note that while Pippin seemed to have a specific vision in mind, he seemed glad to let us pitch in our own unique ideas and visions to the project. As well, it is also important to note that the final product expected for his project does NOT have to be a finalized application, rather, he is seeking to use our design process and the prototype we create as material for his book on game design which he is currently writing. 
 
 #### Main takeaways:
-
+- 
 ### Ideation
 ![](media/figma_start.png)
 ![](media/moodboard.png)
