@@ -88,3 +88,28 @@ I imagine this version of the program would also have a sandbox version for teac
 
 ### Moving Forward
 Between my ideas and those that will be presented by my other teams memebers this week, it will be most important to focus down all of our ideas into a few key elements and values. It will be interesting to see how similar or different our ideas are, and which new elements I haven't even thought about are brought to the pool of ideas. For next week, I think it'll be most productive to come up with a list that we all agree on, and to create a few, more refined, designs which best represent these design values.
+
+### Journal Entry 03 | Week 04 Developing Concepts
+
+### Group Work Overview
+For this week, we started developing on a program idea that was a blend of the main user game editing techniques we discussed together, which was a node-based editor,a slider based editor and a drag-and-drop based editor. In this version, a user still picks a base game to edit, changing its functionality by adding nodes. These nodes come in different easy to understand categories, like aesthetics, mechanics and story which contain within them sliders, drag-and-drop functionality, and editable variables.
+Group members divided the tasks (userflow, wireframe and visual concepts) in pairs, with Julia and I deciding to develop visual concepts. We also decided to create a shared, ongoing moodboard so that members could continuously share ideas and stay acquainted with the energy and style of the project.
+![](media/moodboard_group.png)
+The ongoing moodboard.
+![](media/userflow.png)
+The userflow chart demonstrating the nodes functionality.
+![](media/wireframe.png)
+A detailed wireframe showing both a potential PC and Mobile version of the program.
+
+### Design Concepts
+The design concepts that Julia and I worked on were heavily based on my sketches from last week, especially the arcade and the "wacky" designs which are directly based off of them. The "sci-fi" designs leans more heavily into Julia's photobash concepts based off of early-2000s MP3 players. We wanted to explore the possibilities behind each idea, and see clearly how these might look in a more high-definition version in order to decide on which would suit the program best. All of these concepts have collpasible windows which would expose the details of the tools and node editor once one was selected.
+![](media/arcade_pitch.png)
+The Arcade Concept.
+![](media/scifi_pitch.png)
+The Sci-Fi Concept.
+![](media/wacky_pitch.png)
+The Wacky Concept.
+While each concept is unique in their design, we focused on still bringing in the energy of the moodboard, while balancing Pippin's emphasis on "radical experimentation" with interface readability. In my opinion, the two most successful designs in these aspects are the Sci-fi and Wacky designs, with the Arcade pitch being particularly striking visually, but posing more design challenges in user readability due to the dramatic skeumorphic perspective on the buttons and editing window.
+
+### Moving Forward
+For next week, we absolutely should choose one concept to finally start development on the prototype. Right now, we have three strong visual concepts,a userflow and a detailed wireframe to start from, so all that is missing is Pippin's input. I am looking forward to showing our client the concepts we've developed over the past couple of weeks, however, at this moment he is not responding to our resquests to meet. Hopefully he responds soon, as I am keen on beginning further development.
