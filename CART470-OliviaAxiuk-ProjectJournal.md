@@ -96,8 +96,10 @@ For this week, we started developing on a program idea that was a blend of the m
 Group members divided the tasks (userflow, wireframe and visual concepts) in pairs, with Julia and I deciding to develop visual concepts. We also decided to create a shared, ongoing moodboard so that members could continuously share ideas and stay acquainted with the energy and style of the project.
 ![](media/moodboard_group.png)
 The ongoing moodboard.
+
 ![](media/userflow.png)
 The userflow chart demonstrating the nodes functionality.
+
 ![](media/wireframe.png)
 A detailed wireframe showing both a potential PC and Mobile version of the program.
 
@@ -105,10 +107,13 @@ A detailed wireframe showing both a potential PC and Mobile version of the progr
 The design concepts that Julia and I worked on were heavily based on my sketches from last week, especially the arcade and the "wacky" designs which are directly based off of them. The "sci-fi" designs leans more heavily into Julia's photobash concepts based off of early-2000s MP3 players. We wanted to explore the possibilities behind each idea, and see clearly how these might look in a more high-definition version in order to decide on which would suit the program best. All of these concepts have collpasible windows which would expose the details of the tools and node editor once one was selected.
 ![](media/arcade_pitch.png)
 The Arcade Concept.
+
 ![](media/scifi_pitch.png)
 The Sci-Fi Concept.
+
 ![](media/wacky_pitch.png)
 The Wacky Concept.
+
 While each concept is unique in their design, we focused on still bringing in the energy of the moodboard, while balancing Pippin's emphasis on "radical experimentation" with interface readability. In my opinion, the two most successful designs in these aspects are the Sci-fi and Wacky designs, with the Arcade pitch being particularly striking visually, but posing more design challenges in user readability due to the dramatic skeumorphic perspective on the buttons and editing window.
 
 ### Moving Forward
