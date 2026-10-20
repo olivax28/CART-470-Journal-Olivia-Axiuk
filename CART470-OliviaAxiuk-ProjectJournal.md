@@ -118,3 +118,37 @@ While each concept is unique in their design, we focused on still bringing in th
 
 ### Moving Forward
 For next week, we absolutely should choose one concept to finally start development on the prototype. Right now, we have three strong visual concepts,a userflow and a detailed wireframe to start from, so all that is missing is Pippin's input. I am looking forward to showing our client the concepts we've developed over the past couple of weeks, however, at this moment he is not responding to our resquests to meet. Hopefully he responds soon, as I am keen on beginning further development.
+
+### Journal Entry 04 | Week 05 Developing Concepts
+
+### Progress Overview
+After the last update, we finally did heaar back from our client and recieved some very valuable feedback with regards to our latest concepts. The overall feeling was that we were heading on the right track, however, the project needed a bit of a 'tonal shift,'so to speak. Pippin enjoyed the unique design languages that we had explored, and saw the value in the unconventinal UI layouts. However, although he did express during our first meeting that he did not mind if the program looked more youthful or 'childish' in its design due to its wackyness, he still wanted something that leaned more towards a learning tool for College or University aged students.
+This feedback was recieved right before the October break, in time to give us a clear direction for the work that had to be done during this time. As well, a meeting with the client was set the Wednesday of the break, giving us a set time limit to create a redesign.
+As a group, we agreed that we wanted something that still fun, but that felt more refined. Since the program is aimed at College and university aged students, we collectively turned towards the early design styles of Nintendo's early game console menus, as it was something we were all familiar with and that seemed to hold the right design values.
+
+![](media/wii_menu.jpg)
+
+By looking at thes references, such as the one seen above displaying the Wii's home screen, we noted what we liked about this era of designs, and concluded that the clean lines and limited, light color scheme worked well with the rounded shape language to make something that felt both refined and playful, yet futuristic.
+
+Keeping these references and values in mind, Julia and I returned back to our Figma design files and collaboratively got to work on a new visual concept. We decided to add the visuals over the created wireframe in order to get a better overall feel of the prototype.
+![](media/developed_design.png)
+
+Above is the final visual prototype presented to Pippin during the Wednesday meeting.
+
+### Client Meeting Over the Break
+
+The Wednesday meeting went very well. Our team and the client were all on the same page when it came to design philosophy and visual style. Pippin was ever more intrigued by our node based game building system, and we spoke at length about the potential uses, functionality and tools that could be derived from this form of game editing. 
+
+The discussion concluded that the one of the next steps was to do some research on existing game editing softwares in order to dig deeper into an understanding of functionality and enjoyment derived from game making. Pippin also, interestingly, suggested a few books discussing the subject which might be useful. 
+His philosophy was that due to the nature of creative software as a toolset, the designers of such a software have control over the creative mind of the user, and so it is extremely important to take that into consideration and think about:
+1. what are the ways in which we can let the program be very permissive to the user's imagination
+2. That "Abundance (of different tools) is the most fun of all tools"
+3. What constitues a reasonable thing to do (if there is such a thing as 'reasonable' at all)
+
+Pippin also expressed interest in seeing a video prototype demonstrating the core functionality of the program and its node system after these core ideas have been explored.
+
+### Moving Forward
+
+For this week , I have chosen one game engine, Unity, and one reading, The Art of Game Design by Jesse Schell, to explore. I want to take note of the values represented in Schell's book and see how they are represented in Unity's user inferface, determining whether or not it is successful in doing so or not, while also generally exploring the types of tools that are commonly used and expected in a game editing software. To represent my findings in a more visual way, I want to sketch out ideas of how these can be brought into our project.
+
+For next week, before our next client meeting, I'd like to have an agreement between all our group members, after sharing all of our research, about the most interesting tools and functionality to represent in the video prototype. That being said, this has to be done soon enough so that we can actually develop the video prototype before our next client meeting, in order to present it to Pippin in time.
