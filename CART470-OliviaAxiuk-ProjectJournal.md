@@ -128,7 +128,7 @@ As a group, we agreed that we wanted something that still fun, but that felt mor
 
 ![](media/wii_menu.jpg)
 
-By looking at thes references, such as the one seen above displaying the Wii's home screen, we noted what we liked about this era of designs, and concluded that the clean lines and limited, light color scheme worked well with the rounded shape language to make something that felt both refined and playful, yet futuristic.
+By looking at these references, such as the one seen above displaying the Wii's home screen, we noted what we liked about this era of designs, and concluded that the clean lines and limited, light color scheme worked well with the rounded shape language to make something that felt both refined and playful, yet futuristic.
 
 Keeping these references and values in mind, Julia and I returned back to our Figma design files and collaboratively got to work on a new visual concept. We decided to add the visuals over the created wireframe in order to get a better overall feel of the prototype.
 ![](media/developed_design.png)
