@@ -152,3 +152,7 @@ Pippin also expressed interest in seeing a video prototype demonstrating the cor
 For this week , I have chosen one game engine, Unity, and one reading, The Art of Game Design by Jesse Schell, to explore. I want to take note of the values represented in Schell's book and see how they are represented in Unity's user inferface, determining whether or not it is successful in doing so or not, while also generally exploring the types of tools that are commonly used and expected in a game editing software. To represent my findings in a more visual way, I want to sketch out ideas of how these can be brought into our project.
 
 For next week, before our next client meeting, I'd like to have an agreement between all our group members, after sharing all of our research, about the most interesting tools and functionality to represent in the video prototype. That being said, this has to be done soon enough so that we can actually develop the video prototype before our next client meeting, in order to present it to Pippin in time.
+
+### Journal Entry 05 | Week 06 Video Prototyping
+
+![](media/figma_extraDemo.gif)
