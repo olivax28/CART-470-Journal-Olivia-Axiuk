@@ -155,4 +155,20 @@ For next week, before our next client meeting, I'd like to have an agreement bet
 
 ### Journal Entry 05 | Week 06 Video Prototyping
 
+## Current Progress Overview
+
+For this week, the team focused on adding functionality to the Figma prototype and on creating the video prototype in time for the the midterm meeting with our client. To prepare, we worked on adding in more interactive elements to the node editor in order to simulate its functionality as well as allowing for the Figma prototype to simulate one simple flow from start to end. The goal for this was to have enough interactivity to record and use as footage, while adding non currently available functions in After Effects. 
+
+A walkthrough of the Figma Prototype
 ![](media/figma_extraDemo.gif)
+
+As can be seen here, major work has been done to the node editor, mostly thanks to the work of Julia and Hanif. These changes unclude the ability to navigate from the game view to the editor view via a collapsing window while sliders, now with some interactivity, can change the values related to their associated nodes in order to influence the game. I also added the draw and randomize buttons which were features we had agreed to add with our last meeting with Pippin. With all of the new interactive options, it was time to start the video prototype.
+
+## The video Prototype
+My main task this week was in editing the video prototype. The task became more complex than I anticipated, however, and I and Julia teamed up in order to complete it. We decided on an 'advertisement' style video which would express the energy as well as the core functionality of the program. Combining the footage from he Figma file with animations and post processing from After Effects, we aimed to demonstrate the flexibility that the program can offer, especially with the short 'sneak peak' section near the end which shows theoretical game designs made within the software. 
+Watch the full video here:
+
+
+## Moving Forward
+
+Our midterm meeting with Pippin will be very constructive in terms of deciding which direction we need to continue forward in. While we have created the video prototype to the best of our abilities, there is always more feedback to be made. I think that, given that the vision and technical elements are made clear with the video prototype and the interactive Figma file, I feel that the midterm meeting will be very definitive in the final direction of the project. After applying the feedback, I can imagine moving on to user testing and developing off from there, perhaps even moving on to create a fully interactive version of our prototype, with elements in Figma and in external softwares demonstrating specific tools.
