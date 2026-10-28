@@ -166,7 +166,7 @@ As can be seen here, major work has been done to the node editor, mostly thanks 
 
 ## The video Prototype
 My main task this week was in editing the video prototype. The task became more complex than I anticipated, however, and I and Julia teamed up in order to complete it. We decided on an 'advertisement' style video which would express the energy as well as the core functionality of the program. Combining the footage from he Figma file with animations and post processing from After Effects, we aimed to demonstrate the flexibility that the program can offer, especially with the short 'sneak peak' section near the end which shows theoretical game designs made within the software. 
-Watch the full video here:
+Watch the full video here: https://youtu.be/kcf4vYF23dc
 
 
 ## Moving Forward
