@@ -185,12 +185,16 @@ The midterm meeting began with a general presentation from the team, showing Pip
  The meeting was constructive as well. Pippin brought into question whether the clean "techno-zen" inspired UI went against the creative chaos he wished to inspire from the program, going so far as to call the design "classy." I actually do agree with him on this, and am glad that my instinct was correct. While as a group we do not want to spend all of our remaining time this semester on redesigning the UI, I do want to take this point as a opportunity to see if there are some clever ways we can easily change the design language into one that is more inspirational to Pippin and that reflects the "radical experimentation" ideology better. 
 
  ![](media/funky_example.png)
- This UI example, found by Julia, shows how the use of a layered design and irregular shapes
+
+
+ This UI example, found by Julia, shows an interesting use of a layered design and irregular shapes
 
 
  Another main point that was brought up was that he felt that what was missing from the prototype was a hands-on prototype that would simulate specifically the slider function of the program. Pippin was very interested to see a rough version that put an emphasis on the ability to modify Pong into a number of variations of itself, letting someone experience the creative freedom to make it into something strange and interesting. After some discussion, we determined that the best way to do this would be in a p5 project, a language that both Pippin and the team is familiar with, most of us having taken his p5 centered class. Particularly interested in this aspect of the project, he gave us some p5 code to work off of.
 
  ![](media/pippin_sliders.gif)
+
+
 The above desmonstrates the slider code given by Pippin.
 
 
