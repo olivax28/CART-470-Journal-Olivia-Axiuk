@@ -321,10 +321,10 @@ function checkBallCollision(ball) {
         ball.body.Y <= rightCollisionBottom
     ) {
         // Reverse the ball's horizontal speed
-        ballSpeedX = -ballSpeedX;
+        ballSpeedXOnSlider = -ballSpeedXOnSlider;
 
         // Change the ball's vertical speed so it appears to bounce off the paddle
-        ballSpeedY = (ball.body.Y - paddleRightY) / 20;
+        ballSpeedYOnSlider = (ball.body.Y - paddleRightY) / 20;
     }
 
     if (
@@ -334,10 +334,10 @@ function checkBallCollision(ball) {
         ball.body.Y <= leftCollisionBottom
     ) {
         // Reverse the ball's horizontal speed
-        ballSpeedX = -ballSpeedX;
+        ballSpeedXOnSlider = -ballSpeedXOnSlider;
 
         // Change the ball's vertical speed so it appears to bounce off the paddle
-        ballSpeedY = (ball.body.Y - paddleLeftY) / 20;
+        ballSpeedYOnSlider = (ball.body.Y - paddleLeftY) / 20;
     }
 
 
