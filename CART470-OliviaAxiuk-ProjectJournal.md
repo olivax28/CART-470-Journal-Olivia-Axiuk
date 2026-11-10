@@ -232,7 +232,7 @@ Using the layering technique that she introduced last week, Julia applied the co
 
   Pippin seemed to enjoy testing out the code that we sent, replying with the above image of one giant, single, static ball in the middle of the Pong playing field, almsot as if to prove the "break it while trying" portion of the project's ideology.
 
-  All this ahving been said, some of the future functions to implement could be:
+  All this having been said, some of the future functions to implement could be:
   - a function to remove balls if wanted
   - a simple function to change the colors of different elements
   - the addition of adding a gravity function
