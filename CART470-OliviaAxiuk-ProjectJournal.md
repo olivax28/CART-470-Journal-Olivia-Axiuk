@@ -184,13 +184,15 @@ The midterm meeting began with a general presentation from the team, showing Pip
  The meeting was constructive as well. Pippin brought into question whether the clean "techno-zen" inspired UI went against the creative chaos he wished to inspire from the program, going so far as to call the design "classy." I actually do agree with him on this, and am glad that my instinct was correct. While as a group we do not want to spend all of our remaining time this semester on redesigning the UI, I do want to take this point as a opportunity to see if there are some clever ways we can easily change the design language into one that is more inspirational to Pippin and that reflects the "radical experimentation" ideology better. 
 
  ![](media/funky_example.pngf)
- This UI example, found by Julia, shows how the use of a layered design and irregular shapes
+
+ This UI example, found by Julia, shows how the use of a layered design and irregular shapes can make a design look more energetic.
 
 
  Another main point that was brought up was that he felt that what was missing from the prototype was a hands-on prototype that would simulate specifically the slider function of the program. Pippin was very interested to see a rough version that put an emphasis on the ability to modify Pong into a number of variations of itself, letting someone experience the creative freedom to make it into something strange and interesting. After some discussion, we determined that the best way to do this would be in a p5 project, a language that both Pippin and the team is familiar with, most of us having taken his p5 centered class. Particularly interested in this aspect of the project, he gave us some p5 code to work off of.
 
  ![](media/pippin_sliders.gif)
-The above desmonstrates the slider code given my Pippin.
+
+The above desmonstrates the slider code given by Pippin.
 
 
  This having been said, we finally have a clear idea of the two final deliverables that we are aiming to produce, and these are:
@@ -200,3 +202,51 @@ The above desmonstrates the slider code given my Pippin.
 ## Moving Foward
 
 For this week, our team has two main goals; to create a few new UI style pitches and to begin the slider editor p5 project. As well, it would be nice to come up with a at least a working title. To further these goals, I would like to begin user testing on the Figma prototype as well.
+
+
+### Journal Entry 07 | Week 08 
+
+This week's work was relatively straigtforward and saw the development of both an improved visual design and of the coded "tool prototype" in p5. 
+
+## The visual update
+
+Using the layering technique that she introduced last week, Julia applied the concepts to the current UI design. By adding a crinkled paper texture under the clean, smooth interafce elements that were already there and by skewing the regular shapes, playing with the proportions of each element, the design reads now as more playful while still being readable. As well, we determined that we did not want to change the UI design completely because, not only would it be a big change to implement late in the project, but the group presentation garnered a good bit of positive feedback with particular attention to the nostalgic "techno-zen" style. Since the audience, our classmates, represents Pippin's theoretical target audience, it seemed the wise decision to keep the overall design language similar. 
+
+ ![](media/NewDesign02.png)
+
+ The new design example.
+
+ After beign sent the new design, Pippin seemed to like it as well and agreed that the overall feeling was more playful, while still being readable.
+
+ ## The technical update
+
+ Alongside with the visual update, the team (namely, me, Julia and Hanif) started work on the coded p5 tool prototype. To get started, we wanted to begin with basic sliders. Adding on to the code that Pippin gave us, we added a function that allows a player to add more balls to the game, while also allowing the player to change the X and Y speed of each added ball separately as well as the size.
+
+ Adding these functions also required us to rewrite Pippin's code, refactoring it and rewriting the balls to an array so that it could be modularly added to in the future. 
+
+  ![](media/pong_demonstration_progress.gif)
+
+  A demonstration of the current slider functions in the coded p5 tool prototype.
+
+  ![](media/pippin_sillyball.png)
+
+  Pippin seemed to enjoy testing out the code that we sent, replying with the above image of one giant, single, static ball in the middle of the Pong playing field, almsot as if to prove the "break it while trying" portion of the project's ideology.
+
+  All this ahving been said, some of the future functions to implement could be:
+  - a function to remove balls if wanted
+  - a simple function to change the colors of different elements
+  - the addition of adding a gravity function
+  - a possibility of changing the scoring system
+  - a randomize button
+
+The next meeting with Pippin should be cosntructive as well, and we will be sure to ask him what functions he'd like to see added to this prototype.
+
+
+## Moving forward
+
+For next week, I believe the main goals for our group should be:
+
+- updating the Figma prototype with the new design and refining this prototype's interactivity
+- Adding more features to the coded tool prototype
+- Deciding on a title for the project
+- Begin user testing on both prototypes
