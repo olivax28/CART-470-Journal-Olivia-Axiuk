@@ -172,3 +172,31 @@ Watch the full video here: https://youtu.be/kcf4vYF23dc
 ## Moving Forward
 
 Our midterm meeting with Pippin will be very constructive in terms of deciding which direction we need to continue forward in. While we have created the video prototype to the best of our abilities, there is always more feedback to be made. I think that, given that the vision and technical elements are made clear with the video prototype and the interactive Figma file, I feel that the midterm meeting will be very definitive in the final direction of the project. After applying the feedback, I can imagine moving on to user testing and developing off from there, perhaps even moving on to create a fully interactive version of our prototype, with elements in Figma and in external softwares demonstrating specific tools.
+
+### Journal Entry 06 | Week 07 Midterm Meeting
+
+## The Midterm meeting
+
+The midterm meeting began with a general presentation from the team, showing Pippin our Figma prototype and the promised video prototype as well. Our goals for this meeting were mainly to 1. get feedback on the work we've done so far, using the more developed prototypes to determine if the feel of the project was correct and 2. decide finally on technical limits and on what the final devlierables will look like.
+
+ For strictly positive feedback, he seemed excited to see a polished video prototype. Expressing that he enjoyed the energy it had, he cited the "break it while trying" line in particular, saying that it aligned with his own game-making ideologies. When it came to the Figma userflow, he expressed an appreciation for the detailed thought put into the UI. While UI design was not something he said he would have thought of putting extra focus on, he liked that there was a visually polished interactive prototype that gave him a good feel of what a potential finalized version of the application would be like.
+
+ The meeting was constructive as well. Pippin brought into question whether the clean "techno-zen" inspired UI went against the creative chaos he wished to inspire from the program, going so far as to call the design "classy." I actually do agree with him on this, and am glad that my instinct was correct. While as a group we do not want to spend all of our remaining time this semester on redesigning the UI, I do want to take this point as a opportunity to see if there are some clever ways we can easily change the design language into one that is more inspirational to Pippin and that reflects the "radical experimentation" ideology better. 
+
+ ![](media/funky_example.pngf)
+ This UI example, found by Julia, shows how the use of a layered design and irregular shapes
+
+
+ Another main point that was brought up was that he felt that what was missing from the prototype was a hands-on prototype that would simulate specifically the slider function of the program. Pippin was very interested to see a rough version that put an emphasis on the ability to modify Pong into a number of variations of itself, letting someone experience the creative freedom to make it into something strange and interesting. After some discussion, we determined that the best way to do this would be in a p5 project, a language that both Pippin and the team is familiar with, most of us having taken his p5 centered class. Particularly interested in this aspect of the project, he gave us some p5 code to work off of.
+
+ ![](media/pippin_sliders.gif)
+The above desmonstrates the slider code given my Pippin.
+
+
+ This having been said, we finally have a clear idea of the two final deliverables that we are aiming to produce, and these are:
+ - The finished interactive Figma Prototype
+ - A rough slider-based Pong editor coded in p5 that demos the feeling the finalized software would evoke by allowing a user to make strange and broken versions of a simple game
+
+## Moving Foward
+
+For this week, our team has two main goals; to create a few new UI style pitches and to begin the slider editor p5 project. As well, it would be nice to come up with a at least a working title. To further these goals, I would like to begin user testing on the Figma prototype as well.
