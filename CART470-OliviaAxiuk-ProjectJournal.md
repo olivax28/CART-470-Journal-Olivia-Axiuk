@@ -250,3 +250,49 @@ For next week, I believe the main goals for our group should be:
 - Adding more features to the coded tool prototype
 - Deciding on a title for the project
 - Begin user testing on both prototypes
+
+### Journal Entry 08 | Week 09
+
+
+## The Meeting with Pippin
+
+This week's client meeting went into a bit of an unexpected direction. Overall, the general feeling from Pippin was that, although he liked the work we had done so far, Pippin really wanted us to begin experimenting again, While we,as a team, thought he wanted us to narrow down our ideas and create one finished product, what Pippin really wanted to see was more of a push toward the strange and unexpected. Rather than having one polished project at the end, what he was more interested in seeing was a variety of unique designs which pushed the boundaries of what it meant to make a game. We decided that we would separate for this week and each branch out our prototypes as much as possible. Pippin explicitly said that he wanted us to "go crazy."
+
+I think I'll really enjoy working on this reframed version of the project for the rest of the semester. Not only is there less pressure to create a finalized product by the end, but it also allows for more creativity, a chance to really use the class as a chance to develop on the most exciting prototypes.
+
+
+## Current progress on the new approach
+
+Now, despite the new approach, we did not abandon our previous work. In fact, the coded tool-based prototype continues to be a major part of the project, allowing for a way for someone to actually create their own weird and wacky game of Pong. Pippin seemed to really enjoy using even the simple version we made prior to this one, so expanding it seemed like the logical thing to do.
+
+  ![](media/more_sliders.png)
+
+The above image shows the current state of the tool prototype, which had been expanded to have many more editable features. My personal favorites are the ability to add controls as well as the ability to change the paddle sprites. THis expantion was mainly done by Hanif.
+
+For my personal exploration, I wanted to try redesigning the whole user interface, perpousefully leaning in what seems like the opposite direction of our current design, while keeping readability and organization in mind. To keep the exploration fun, I decided to delve into what is inspiring me the most right now, which is the early era of computer graphics spanning from the late 70s to the 80s. Upon delving into the book 'Computer Graphics Primer' by Mitchell Waite, I came upon the following image:
+
+  ![](media/primer.png)
+
+  Something about the motion on the graph interested me, as well as the strange visual icons under "even add your own" inspired me to make a more visual-based editing interface. Following the design language of these early computers, I also noticed that the dhasboard of the Nissan 300ZX from 1985 showed similar intriguing visual elements.
+  
+  ![](media/z_dash.png)
+  
+Combining these references, I came up with the following design:
+
+  ![](media/new_concept_z.png)
+
+  I actually feel that the visual language of the design inspired the interactive elements directly, as I began to image what might be fun and feel almost "tactile" when it came to editing. Inspired by 3D animation, I added an editable motion graph, so that a user can not only change the speed of different elements, buy also edit the way that an object might get to its destiantion. I also added sort of "knobs" that might edit the angle of bounces and other moving axes.
+
+  However, I think the most exciting part of this design was inspired by Nolan's own experimentation, which is the ability to add alternative inputs. He experimented with recieving inputs form the camera, using motion to control the elements on screen, and I imagined it in the form of facial expression recognition, hand movements and eye tracking. These inputs, in my design, could theoretically be applied to any element within the game world.
+
+  Finally, I also added a few more functions mostly having to do with sound, as I think it is an important part of game-making that has not been addressed yet in any of our designs. The imagined features I added was the ability to add sound effects, music and the ability to add live-recorded voice clips as well.
+
+## Moving forward
+
+I am looking forward to seeing what everyone has worked on over the past week. Although we've been communicating asyncronously, we haven't shared the full breadth of our work due to this week's tasks focusing mainly on branching out. I think that by coming together we can determine which elements are the most interesting and continue our explorations from there. We will also undoubtedly be sharing everything we've done with Pippin, who I'm sure will be very interested in seeing the range of prototypes. I think that for next week, we will likely continue in the same direction, perhaps refining this week's prototypes and adding more weird and experimental features. 
+
+Next week's  to-do list may look like:
+- Continue to develop the coded tool prototype
+- Deciding on a title for the project
+- decide on which elements from this week were the strongest and develop more ideations from there
+- Begin user testing and feedback on the versions of the project we currently have
