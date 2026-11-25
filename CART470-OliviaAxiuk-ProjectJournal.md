@@ -347,3 +347,4 @@ That having been said, to get there I imagine the next few weeks will look like:
 - Choose our favovrite aspects of each team emeber's prototype and refine/ combine them
 - Deciding on a title for the project
 - Begin user testing and feedback on the versions of the project we currently have
+- Update living, learning contract
