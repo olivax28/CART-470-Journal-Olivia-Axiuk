@@ -296,3 +296,54 @@ Next week's  to-do list may look like:
 - Deciding on a title for the project
 - decide on which elements from this week were the strongest and develop more ideations from there
 - Begin user testing and feedback on the versions of the project we currently have
+
+### Journal Entry 09 | Week 10
+
+## Group Meeting and Goals
+
+The last meeting proved to be very interesting, as all team members brought unique prototypes to the table that presented very different approaches to this project. They were all strange and unique in their own ways, which I think is exactly what we needed for this stage of the project. I found this more experimental approach to be the most inspiring stretch of the project and is also, not to mention, likely closer to the 'radical experimentation' that our client, Pippin, is looking for.
+
+The round table went something like this:
+
+Hanif's coded prototype:
+
+Hanif presented a very developed tool-based software with a very wide range of editable components in the Pong game. We as a group agreed that the best direction for his prototype would be to continue refining the code, creating a flexible program that people could play with during the final exhibition
+
+Nolan's AI-based exploration:
+
+His words, not mine! Nolan explored some interesting concepts using the help of AI to quickkly come up with an interactable prototype that explored the possibility of using alternative inputs to control different parts of the game, such as the paddles. He also added a feature where the 2D plane of the game could be warped and stretched as a 3D shape, changing the angle at which a player saw the game. After the group took turns controlling the paddles with our hands, enjoying the opportunity to move in real space to control the game world, we decided that the ability to add alternative inputs was valuable. We agreed as a group that Nolan's task would be to make a version of this prototype that took away the flashy visual language his came with and that focused on implementing the alternative inputs.
+
+Nat's research:
+
+Nat presented their research, sharing their findings on different gqame mechanics, visuals and their values with us as we worked on ou prototypes. They also agreed to do a word-based prototype based on twine, which they will show next meeting.
+
+Julia's Tarot reading
+
+Julia worked on an interesing prototype that mixed narrative and stroytelling elements witht he game-making aspect of the prototype. Keeping in mind Pippin's affinity for the unexpected, she based her prototype on a Tarot reading. The video prototype showed a program where, upon entering the program, a player would recieve three tarot cards which in turn would reveal new sliders and editing tools. The sliders had unexpected effects on the game having to do with their associated card. FOr example, the "Sun" card made the ball into a large, glowig orb with its own gravity that could be adjusted, pulling other elements toward it. We agreed as a group that the concept was very interesting, and wondered if basing herself on ou rpast prototypes was holding her back, so we encourraged her to explore this idea further, breaking away from our other UI designs.
+
+ And of course, I presented my work which was shown in the last journal.
+
+## New Visual Concepts and Values
+
+My task for our next meeting was to design the visual side of Nolan's explorations. Since we all agreed that alternative inputs were an interesting aspect to explore, I decided that my visual concepts would put a focus on this. As well, I wanted to reimagine the format of the program, exploring different avenues that could lead to unexpected exploration within the game-making experience.
+
+My first concept was more or less successful, I think. I developed off of my last "Z-Style" design, making more room for the ability to add the motion inputs. I ended up removing a lot of editing features in order to put more of a focus on these, which led me to wanting to explore alternative visual ways of representing the kept editable features, inspired by my motion graph. I especially liked the graph point system representing the location of the paddle, which makes adjusting this seem more explorative, as the X and Y axis can be adjusted at once, rather than separately as it was in other versions.
+
+  ![](media/Alternate_gameExample.png)
+
+While I liked this version, I wanted to rally push the new concept further into a direction we hadn't developed yet. I was inspired my Hanif's Figma sketch of a UI which was set up like a competitive game amd by the in-class experience the group had playing Nolan's version of Pong, using our arms to move the paddles and compete. My final concept combined these two ideas into one and returned to the original "techno-zen" design style but with a playful twist.
+  
+  ![](media/VS_gameExample.png)
+
+As can be seen above, the new UI is symmetrical, allowing both players to assign alternative inputs to anything in the game space (including the other player's paddle) as well as basic editng tools such a sliders for the paddle sizes and a button to add balls and to increase the "bounce" of each as well. I also thought that it might be interesting to add sliders for the sensitivity of each alternative input, increasing or decreasing their ease of use. I imagine that this sort of competitive environment could bring about unexpected outcomes and encourage accidental radical exploration.
+
+
+## Moving Forward --- Close to the Finish Line
+I am looking forward to present the new, more unique prototypes to Pippin this week. I am curious to know what he will say about each, since they all present very different sides tothe same project. Once this feed back is given, I think that one of the most important things we can do moving forward is to finally do some user testing with what we have so far. We have more than enough content now to recieve feedback about what testers find the most interesting both visually and mechanically about the different prototypes. 
+
+Nearing the finish line, I can see us iterating and refining what we have. I think the final presentation will look like a timeline of exploration of sorts. We'll have so many different types of prototypes, some in video format, some interactable and some static images, that I think it would be interesting to show to viewers the process of ideation while encouraing hand-on interaction.
+
+That having been said, to get there I imagine the next few weeks will look like:
+- Choose our favovrite aspects of each team emeber's prototype and refine/ combine them
+- Deciding on a title for the project
+- Begin user testing and feedback on the versions of the project we currently have
